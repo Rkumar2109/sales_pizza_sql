@@ -1,10 +1,7 @@
-BAAP OF PIZZA
+🍕 BAAP OF PIZZA – SQL Sales Analysis Project
 
-Pizza makes the world go round — one slice at a time!
-
-Project Overview
-
-This SQL project dives deep into pizza sales to uncover what’s hot, what’s selling, and when people crave pizza the most! Simple queries, clean insights, and a tasty dataset.
+📌 Overview:-
+Welcome to BAAP OF PIZZA, a comprehensive SQL-based data analysis project that explores pizza sales data to uncover trends, customer preferences, and business-driving insights. This project uses a structured set of SQL queries ranging from basic to advanced to extract meaningful information from raw sales data.
 
 Tools Used :-
 SQL  
